@@ -1,0 +1,9 @@
+{
+	"name": "ADFTutorialDataFactoryEMG",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6642039b-22be-4e01-9028-fed936acac50",
+		"tenantId": "e8d8887c-7ec9-494f-bb25-cc084b8cb322"
+	}
+}
